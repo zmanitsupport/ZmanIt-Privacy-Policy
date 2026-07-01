@@ -1,0 +1,24 @@
+Privacy Policy
+
+ZmanIt is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and share information about you when you use the ZmanIt mobile application.
+
+1. Information We Collect
+* Authentication Data: To secure your account, we collect and verify your device's serial number and email.
+* Location Information: To provide accurate Halachic times and Shabbat times, the app requires access to your device’s GPS location. This data is used solely to calculate solar positions relative to your specific coordinates.
+* User-Generated Content: Any custom calendar events, reminders, or birth information entered into the app's features are stored to provide the application’s core functionality.
+* Device Information: We may collect information about your mobile device, including model, operating system, and unique identifiers for analytics, security, and troubleshooting.
+
+2. How We Use Your Information
+We use the information we collect to:
+* Calculate and display precise Halachic times and Shabbat information.
+* Manage your account status and trial period.
+* Provide customer support and respond to your inquiries.
+* Administrative Access: We reserve the right to view and access all user information stored within our systems. This access is maintained for the purposes of providing technical support, maintaining the integrity of our services, preventing abuse, ensuring security, and improving the application's underlying logic.
+
+3. Information Sharing and Disclosure
+We do not sell your personal information. We share your data only in the following circumstances:
+* System Maintenance: We share data with infrastructure providers necessary to host the app and manage your secure login.
+* Legal Requirements: We may disclose your information if required to do so by law or in response to valid requests by public authorities.
+
+4. Data Retention and Deletion
+We retain your information for as long as your account is active. You may delete your account and all associated data at any time via the "Delete Account" button in the Settings menu of the application.
